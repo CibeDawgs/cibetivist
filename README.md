@@ -5,7 +5,6 @@ Toolkit ini dibuat khusus untuk pengguna **Termux** yang ingin belajar dasar-das
 Semua fitur di sini dibuat untuk **pembelajaran**, **pengujian lokal**, dan **simulasi** — bukan untuk kejahatan siber.
 
 ---
-sleep 1
 
 pkg update -y && pkg upgrade -y
 
