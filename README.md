@@ -8,8 +8,11 @@ Semua fitur di sini dibuat untuk **pembelajaran**, **pengujian lokal**, dan **si
 sleep 1
 
 pkg update -y && pkg upgrade -y
+
 pkg install python git nano -y
+
 git clone https://github.com/CibeDawgs/cibetivist.git
+
 cd cibetivist
 
 ======================================="
